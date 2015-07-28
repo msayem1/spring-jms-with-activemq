@@ -2,7 +2,8 @@
 Implementing Spring JMS with ActiveMQ using Spring MVC Framework and Apache Maven.
 
 
-## Project Environment: ##
+
+### Project Environment: ###
 1. Java JDK 1.8
 
 2. Apache Maven 3.3.1
